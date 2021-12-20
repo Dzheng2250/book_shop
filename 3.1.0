@@ -1,0 +1,12 @@
+
+> fibers@5.0.0 install D:\VueLearn\Study\bookshop\node_modules\fibers
+> node build.js || nodejs build.js
+
+`win32-x64-83` exists; testing
+Binary is fine; exiting
++ fibers@5.0.0
+updated 1 package in 5.765s
+
+100 packages are looking for funding
+  run `npm fund` for details
+
